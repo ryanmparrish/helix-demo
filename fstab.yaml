@@ -1,3 +1,4 @@
 mountpoints:
-  /: https://docs.google.com/spreadsheets/d/e/2PACX-1vSgVz8zmqZFv9vkVK-hdSpDtV6RnkF2ndzg4RUxzzvvuD_zXEouPHdO7JMjvqYskH9EJvDK_p1IZr2v/pubhtml?gid=0&single=true
-#  /: https://drive.google.com/drive/u/0/folders/1FuUNtSyWtXeu5QS4iSdNGZRM15Ncp7wo
+  /: https://drive.google.com/drive/u/0/folders/1FuUNtSyWtXeu5QS4iSdNGZRM15Ncp7wo
+#  /: https://docs.google.com/spreadsheets/d/e/2PACX-1vSgVz8zmqZFv9vkVK-hdSpDtV6RnkF2ndzg4RUxzzvvuD_zXEouPHdO7JMjvqYskH9EJvDK_p1IZr2v/pubhtml?gid=0&single=true
+
